@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Veronica!
+## Hello, I'm Veronica. 
 
-🎓 Senior Business Analytics & Management Information Systems Student at Villanova University  
+🎓 Double Major Business Analytics & Management Information Systems Student at Villanova University
 💡 Passionate about analytics, data storytelling, and creating actionable business insights
 
 ---
@@ -24,8 +24,5 @@ Check out my work:
 ### 📫 Let’s Connect
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/veronicasamonte  
-📧 Email: [your email here]
+📧 Email: veronicameisamonte@gmail.com
 
----
-
-Thanks for stopping by! 😊
