@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I’m Veronica!
 
-<!--
-**veronicasamonte/veronicasamonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Business Analytics & Management Information Systems Student at Villanova University  
+💡 Passionate about analytics, data storytelling, and creating actionable business insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+
+- **Analytics & BI**: SQL, Excel, Tableau, Power BI  
+- **Programming**: Python, R (studying data science methods)  
+- **Other Tools**: Salesforce, data visualization, dashboards
+
+---
+
+### 📂 Projects & Repositories
+
+Check out my work:  
+👉 [🔗 My personal site / portfolio](https://veronicasamonte.github.io)  
+👉 **Pinned projects** below show some of my creations
+
+---
+
+### 📫 Let’s Connect
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/veronicasamonte  
+📧 Email: [your email here]
+
+---
+
+Thanks for stopping by! 😊
