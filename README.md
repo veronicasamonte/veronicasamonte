@@ -1,15 +1,16 @@
-## Hello, I'm Veronica. 
+## Hello, I'm Veronica 
 
-🎓 Double Major Business Analytics & Management Information Systems Student at Villanova University
+🎓 Graduating in May 2026 at Villanova University
+🏫 Double Major Business Analytics & Management Information Systems Student
 💡 Passionate about analytics, data storytelling, and creating actionable business insights
 
 ---
 
 ### 🛠 Skills & Tools
 
-- **Analytics & BI**: SQL, Excel, Tableau, Power BI  
-- **Programming**: Python, R (studying data science methods)  
-- **Other Tools**: Salesforce, data visualization, dashboards
+- **Analytics & BI**: SQL, Excel, Tableau, PowerBI  
+- **Programming**: Python, R  
+- **Other Tools**: Salesforce, Microsoft Office
 
 ---
 
@@ -17,7 +18,6 @@
 
 Check out my work:  
 👉 [🔗 My personal site / portfolio](https://veronicasamonte.github.io)  
-👉 **Pinned projects** below show some of my creations
 
 ---
 
