@@ -1,7 +1,7 @@
-## Hello, I'm Veronica 
+## Hello, I'm Veronica!
 
-🎓 Graduating in May 2026 at Villanova University
-🏫 Double Major Business Analytics & Management Information Systems Student
+🎓 Graduating in May 2026 at Villanova University<br/>
+🏫 Double Major Business Analytics & Management Information Systems Student<br/>
 💡 Passionate about analytics, data storytelling, and creating actionable business insights
 
 ---
