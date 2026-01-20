@@ -17,12 +17,4 @@ Passionate about analytics, data storytelling, and creating actionable business 
 
 Explore my projects on GitHub!
 
----
-
-### Let’s Connect
-
-**LinkedIn:** https://www.linkedin.com/in/veronicasamonte  
-Email: veronicameisamonte@gmail.com<br/>
-Phone: 908-397-9013<br/>
-Website: https://veronica-samonte-uba8a1m.gamma.site/
 
