@@ -1,12 +1,11 @@
-## Hello, I'm Veronica!
 
-🎓 Graduating Villanova University in May 2026<br/>
-🏫 Double Major Business Analytics & Management Information Systems Student<br/>
-💡 Passionate about analytics, data storytelling, and creating actionable business insights
+Graduating Villanova University in May 2026<br/>
+Double Major Business Analytics & Management Information Systems Student<br/>
+Passionate about analytics, data storytelling, and creating actionable business insights
 
 ---
 
-### 🛠 Skills & Tools
+### Skills/Tools
 
 - **Analytics & BI**: SQL, Excel, Tableau, PowerBI  
 - **Programming**: Python, R  
@@ -14,15 +13,16 @@
 
 ---
 
-### 📂 Projects & Repositories
+### Projects/Repositories
 
-Check out my work:  
-👉 [🔗 My personal site / portfolio](https://veronicasamonte.github.io)  
+Explore my projects on GitHub!
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/veronicasamonte  
-📧 Email: veronicameisamonte@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/veronicasamonte  
+Email: veronicameisamonte@gmail.com<br/>
+Phone: 908-397-9013<br/>
+Website: https://veronica-samonte-uba8a1m.gamma.site/
 
