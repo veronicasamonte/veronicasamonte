@@ -8,7 +8,7 @@ Passionate about AI, analytics, data storytelling, and creating actionable busin
 ### Skills/Tools
 
 - **Analytics & BI**: SQL, Excel, Tableau, PowerBI  
-- **Programming**: Python, R  
+- **Programming**: Python, R, VBA  
 - **Other Tools**: Salesforce, Microsoft Office, Zapier
 
 ---
